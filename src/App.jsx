@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import emailjs from "@emailjs/browser";
 import PHOTO from "./assets/pic.png";
-import RESUME from "./assets/Mercelin Santhiya.pdf";
+import RESUME from "./assets/MercelinSanthiya.pdf";
 
 const EMAILJS = { service: "service_x2mfuwl", template: "template_dq4ycym", key: "CcHytYggRiVKEHsZc" };
 
