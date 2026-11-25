@@ -9,7 +9,7 @@ const ME = {
   first: "Mercelin", last: "Santhiya", role: "Junior Software Engineer",
   stack: ["Java", "Spring Boot", "Microservices", "ReactJS"],
   intro: "Full-stack developer passionate about building reliable backend services and responsive web applications. Experienced in RESTful APIs, role-based access control and booking workflows.",
-  location: "Tiruvannamalai, Tamil Nadu", email: "mercelinsanthiya3105@gmail.com", phone: "63696023353",
+  location: "Tiruvannamalai, Tamil Nadu", email: "mercelinsanthiya3105@gmail.com", phone: "6369602353",
   linkedin: "#", resume: RESUME, resumeName: "Mercelin_Resume.pdf",
   about: [
     "I'm a **Junior Software Engineer** with 1+ year of experience building and shipping production web applications at **Aroshell Infotech Pvt Ltd**, Tiruvannamalai.",
